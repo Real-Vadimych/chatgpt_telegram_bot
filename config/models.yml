@@ -48,7 +48,6 @@ info:
     price_per_1000_input_tokens: 0.01
     price_per_1000_output_tokens: 0.03
 
-
   text-davinci-003:
     type: completion
     name: GPT-3.5
