@@ -40,6 +40,15 @@ info:
       Fast: 2
       Cheap: 2
 
+  gpt-4-1106-preview:
+    type: chat_completion
+    name: GPT-4 Turbo
+    description: GPT-4 Turbo is a <b>faster</b> and <b>cheaper</b> version of GPT-4. It's as smart as GPT-4, so you should use it instead of GPT-4.
+
+    price_per_1000_input_tokens: 0.01
+    price_per_1000_output_tokens: 0.03
+
+
   text-davinci-003:
     type: completion
     name: GPT-3.5
