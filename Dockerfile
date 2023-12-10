@@ -20,4 +20,3 @@ COPY . /code
 WORKDIR /code
 
 CMD ["bash"]
-
