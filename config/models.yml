@@ -39,6 +39,19 @@ info:
       Smart: 5
       Fast: 2
       Cheap: 2
+      
+  gpt-4o:
+    type: chat_completion
+    name: GPT-4o
+    description: GPT-4o (“o” for “omni”) is most advanced model. It is multimodal (accepting text or image inputs and outputting text), and it has the same high intelligence as GPT-4 Turbo but is much more efficient—it generates text 2x faster and is 50% cheaper.
+
+    price_per_1000_input_tokens: 0.005
+    price_per_1000_output_tokens: 0.02
+
+    scores:
+      Smart: 5
+      Fast: 5
+      Cheap: 2
 
   gpt-4-1106-preview:
     type: chat_completion
