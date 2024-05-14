@@ -1,4 +1,4 @@
-available_text_models: ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4-1106-preview", "gpt-4", "text-davinci-003"]
+available_text_models: ["gpt-3.5-turbo", "gpt-3.5-turbo-16k", "gpt-4-1106-preview", "gpt-4o", "gpt-4", "text-davinci-003"]
 
 info:
   gpt-3.5-turbo:
@@ -43,7 +43,7 @@ info:
   gpt-4o:
     type: chat_completion
     name: GPT-4o
-    description: GPT-4o (ìoî for ìomniî) is most advanced model. It is multimodal (accepting text or image inputs and outputting text), and it has the same high intelligence as GPT-4 Turbo but is much more efficientóit generates text 2x faster and is 50% cheaper.
+    description: GPT-4o (‚Äúo‚Äù for ‚Äúomni‚Äù) is most advanced model. It is multimodal (accepting text or image inputs and outputting text), and it has the same high intelligence as GPT-4 Turbo but is much more efficient‚Äîit generates text 2x faster and is 50% cheaper.
 
     price_per_1000_input_tokens: 0.005
     price_per_1000_output_tokens: 0.02
